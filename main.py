@@ -211,4 +211,4 @@ async def update_bank(user, change=0, mode="carteira"):
 
 
 
-client.run('ODI2NDk0NDk5MDgwNjM0Mzc5.YGNS_A.EmOloLMr48jKtLKOp2tcQyN5t6g')
+client.run('token')
